@@ -12,7 +12,7 @@
     },
     // 本地开发测试就写本地ip和端口地址(不要用localhost)，发布线上就写web服务器地址 
     // 客户端是通过访问这个网页来展示到app的
-    "launch_path" : "http://192.168.0.132:8080/", /*应用的入口页面，默认为根目录下的index.html；支持网络地址，必须以http://或https://开头*/
+    "launch_path" : "https://www.aeddj.xyz/", /*应用的入口页面，默认为根目录下的index.html；支持网络地址，必须以http://或https://开头*/
     "developer" : {
         "name" : "", /*开发者名称*/
         "email" : "", /*开发者邮箱地址*/
